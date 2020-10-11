@@ -2,9 +2,13 @@ theme: jekyll-theme-minimal
 
 title: Alexandra Gallyas-Sanhueza
 
+description: PhD student at Cornell University. 
+
 logo: https://github.com/AlexandraGallyas/AlexandraGallyas.github.io/blob/master/ag753.jpg?raw=true
 
 # choose markdown version
 markdown: kramdown
 
 email: ag753@cornell.edu
+
+
