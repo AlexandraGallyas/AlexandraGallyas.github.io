@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+title: Alexandra Gallyas-Sanhueza
+
+logo: http://github.com/AlexandraGallyas/AlexandraGallyas.github.io/blob/master/ag753.png?raw=true
+
+# choose markdown version
+markdown: kramdown
+
+email: ag753@cornell.edu
