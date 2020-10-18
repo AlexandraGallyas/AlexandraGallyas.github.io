@@ -1,4 +1,4 @@
-**<span style="color: grey;">**
+<span style="color: grey;">
 
 ### View my **[resume]({{ site.url }}/ag753.jpg)** 
 
@@ -10,7 +10,6 @@ I am a third-year Ph.D. student at Cornell University. I work with Professor [Ch
 
 ## PUBLICATIONS
 
-{: reversed="reversed"}
 1. S. H. Mirfarshbafan, **A. Gallyas-Sanhueza**, R. Ghods and C. Studer, "Beamspace Channel Estimation for Massive MIMO mmWave Systems: Algorithm and VLSI Design," in IEEE Transactions on Circuits and Systems I: Regular Papers, doi: 10.1109/TCSI.2020.3023023.
 
 1. **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan, R. Ghods and C. Studer, "Sparsity-Adaptive Beamspace Channel Estimation for 1-Bit mmWave Massive MIMO Systems," 2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Atlanta, GA, USA, 2020, pp. 1-5, doi: 10.1109/SPAWC48557.2020.9154213.
