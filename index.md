@@ -1,6 +1,6 @@
 <span style="color: grey;">
 
-### View my **[resume]({{ site.url }}/ag753.jpg)** 
+### View my **[resume]({{ site.url }}/Alexandra_Gallyas_Sanhueza_resume.pdf)** 
 
 
 ## RESEARCH
