@@ -54,6 +54,13 @@
 	</p>
 	{% endif %}
 	
+        {% if site.scholar %}
+        <p>
+          <a href="{{ site.scholar }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-google-scholar-square" aria-hidden="true"></i> Google Scholar
+          </a>
+        </p>
+        {% endif %}
 
 	{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
