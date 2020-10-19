@@ -22,4 +22,4 @@ I am a third-year Ph.D. student at Cornell University. I work with Professor [Ch
 
 ## PATENTS
 
-1. C. Studer, R. Ghods, S.H. Mirfarshbafan and **A. Gallyas-Sanhueza**, Cornell University, 2020. Circuit and method for enabling channel denoising in a wireless communication apparatus. U.S. Patent 10,608,686.
+1. C. Studer, R. Ghods, S. H. Mirfarshbafan and **A. Gallyas-Sanhueza**, Cornell University, 2020. Circuit and method for enabling channel denoising in a wireless communication apparatus. U.S. Patent 10,608,686.
