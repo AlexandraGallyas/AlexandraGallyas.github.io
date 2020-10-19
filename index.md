@@ -1,12 +1,10 @@
 <span style="color: grey;">
 
-### View my **[resume]({{ site.url }}/Alexandra_Gallyas_Sanhueza_resume.pdf)** 
-
+### Download my resume [here]({{ site.url }}/Alexandra_Gallyas_Sanhueza_resume.pdf)
 
 ## RESEARCH
 
-I am a third-year Ph.D. student at Cornell University. I work with Professor [Christoph Studer](http://vip.ece.cornell.edu), who is now an Associate Professor at [ETH Zurich](https://iis.ee.ethz.ch/people/person-detail.cstuder.html). My research is on baseband algorithms for wireless multi-antenna communication systems. More broadly, I am interested in applying statistical techniques to model signals corrupted by noise or distortions, and then using such models to design efficient algorithms that recover the signal of interest. 
-
+I am a third-year Ph.D. student at Cornell University. I work with Professor [Christoph Studer](http://vip.ece.cornell.edu), who is an Associate Professor at ETH Zurich and a Visiting Associate professor at Cornell University. My research is on baseband algorithms for beyond 5G multi-antenna wireless communication systems. More broadly, I am interested in applying statistical signal processing techniques to model signals corrupted by noise and hardware impairments, and exploiting such models in order to design computationally-efficient algorithms that estimate the signals of interest.
 
 ## PUBLICATIONS
 
