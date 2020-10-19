@@ -1,5 +1,4 @@
 <span style="color: grey;">
-<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 
 ### Download my resume [here]({{ site.url }}/Alexandra_Gallyas_Sanhueza_resume.pdf)
 
