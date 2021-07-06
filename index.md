@@ -1,6 +1,6 @@
 <span style="color: grey;">
 
-### Download my resume [here]({{ site.url }}/Alexandra_Gallyas_Sanhueza_resume.pdf)
+### Download  my resume [here]({{ site.url }}/Alexandra_Gallyas_Sanhueza_resume.pdf)
 
 ## RESEARCH
 
