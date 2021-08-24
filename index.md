@@ -5,7 +5,8 @@
 ## RESEARCH
 
 I am a third-year Ph.D. student at Cornell University. I work on baseband algorithms for beyond 5G multi-antenna wireless communication systems. More broadly, I am interested in applying statistical signal processing techniques to model signals corrupted by noise and hardware impairments, and exploiting such models in order to design computationally-efficient algorithms that estimate the signals of interest.
-My advisor is Professor [Christoph Studer](http://vip.ece.cornell.edu), who is an Associate Professor at ETH Zurich and a Visiting Associate professor at Cornell University.
+
+My advisor is Professor [Christoph Studer](http://vip.ece.cornell.edu), Associate Professor at ETH Zurich and Visiting Associate professor at Cornell University.
 
 ## PUBLICATIONS
 
