@@ -10,7 +10,7 @@ I am a third-year Ph.D. student at Cornell University. I work with Professor [Ch
 
 1. Y. Dai, H. Liew, M. E. Rasekh, S. H. Mirfarshbafan, **A. Gallyas-Sanhueza**, J. Dunn, U. Madhow, C. Studer, and B. Nikolic, 
 "A scalable generator for massive MIMO baseband processing systems with beamspace channel estimation,"
-*IEEE International Workshop on Signal Processing Systems (SiPS),* 2021, to appear.
+*IEEE International Workshop on Signal Processing Systems (SiPS),* to appear.
 
 1. E. Gönültaş\*, S. Taner\*, **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan, and C. Studer, 
 “Hardware-aware beamspace precoding for all-digital mmWave massive MU-MIMO,”
