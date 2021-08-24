@@ -13,11 +13,11 @@ I am a third-year Ph.D. student at Cornell University. I work with Professor [Ch
 *IEEE International Workshop on Signal Processing Systems (SiPS),* 2021, to appear.
 
 1. E. Gönültaş\*, S. Taner\*, **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan, and C. Studer, 
-“Hardware-aware beamspaceprecoding for all-digital mmWave massive MU-MIMO,”
+“Hardware-aware beamspace precoding for all-digital mmWave massive MU-MIMO,”
 *IEEE Communications Letters,* Aug. 2021.
 
 1. **A. Gallyas-Sanhueza** and C. Studer, 
-“Blind SNR estimation and nonparametric channel denoising in multi-antennammWave systems,”
+“Blind SNR estimation and nonparametric channel denoising in multi-antenna mmWave systems,”
 *IEEE International Conference on Communications (ICC),* Jun. 2021.
 
 1. S. H. Mirfarshbafan, **A. Gallyas-Sanhueza**, R. Ghods and C. Studer, 
