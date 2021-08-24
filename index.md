@@ -8,16 +8,44 @@ I am a third-year Ph.D. student at Cornell University. I work with Professor [Ch
 
 ## PUBLICATIONS
 
-1. S. H. Mirfarshbafan, **A. Gallyas-Sanhueza**, R. Ghods and C. Studer, "Beamspace Channel Estimation for Massive MIMO mmWave Systems: Algorithm and VLSI Design," in IEEE Transactions on Circuits and Systems I: Regular Papers, doi: 10.1109/TCSI.2020.3023023.
+1. Y. Dai, H. Liew, M. E. Rasekh, S. H. Mirfarshbafan, **A. Gallyas-Sanhueza**, J. Dunn, U. Madhow, C. Studer, and B. Nikolic, 
+"A scalable generator for massive MIMO baseband processing systems with beamspace channel estimation,"
+*IEEE International Workshop on Signal Processing Systems (SiPS),* 2021, to appear.
 
-1. **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan, R. Ghods and C. Studer, "Sparsity-Adaptive Beamspace Channel Estimation for 1-Bit mmWave Massive MIMO Systems," 2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Atlanta, GA, USA, 2020, pp. 1-5, doi: 10.1109/SPAWC48557.2020.9154213.
+1. E. Gönültaş\*, S. Taner\*, **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan, and C. Studer, 
+“Hardware-aware beamspaceprecoding for all-digital mmWave massive MU-MIMO,”
+*IEEE Communications Letters,* Aug. 2021.
 
-1. R. Ghods, **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan and C. Studer, "BEACHES: Beamspace Channel Estimation for Multi-Antenna mmWave Systems and Beyond," 2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Cannes, France, 2019, pp. 1-5, doi: 10.1109/SPAWC.2019.8815576.
+1. **A. Gallyas-Sanhueza** and C. Studer, 
+“Blind SNR estimation and nonparametric channel denoising in multi-antennammWave systems,”
+*IEEE International Conference on Communications (ICC),* Jun. 2021.
 
-1. O. Castañeda, M. Bobbett, **A. Gallyas-Sanhueza** and C. Studer, "PPAC: A Versatile In-Memory Accelerator for Matrix-Vector-Product-Like Operations," 2019 IEEE 30th International Conference on Application-specific Systems, Architectures and Processors (ASAP), New York, NY, USA, 2019, pp. 149-156, doi: 10.1109/ASAP.2019.000-9.
+1. S. H. Mirfarshbafan, **A. Gallyas-Sanhueza**, R. Ghods and C. Studer, 
+"Beamspace Channel Estimation for Massive MIMO mmWave Systems: Algorithm and VLSI Design," 
+*IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I),* Sep. 2020. 
+<--!doi: 10.1109/TCSI.2020.3023023-->
 
-1. C. Alessandri, D. Guzman, A. Abusleme, D. Avila, E. Alvarez, H. Campillo, **A. Gallyas-Sanhueza**, C. Oberli, and M. Guarini. "Theoretical framework and simulation results for implementing weighted multiple sampling in scientific CCDs." arXiv preprint arXiv:1510.09105 (2015).
+1. **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan, R. Ghods and C. Studer, 
+"Sparsity-Adaptive Beamspace Channel Estimation for 1-Bit mmWave Massive MIMO Systems," 
+*IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC),* May. 2020.
+<--!doi: 10.1109/SPAWC48557.2020.9154213.-->
+
+1. O. Castañeda, M. Bobbett, **A. Gallyas-Sanhueza** and C. Studer, 
+"PPAC: A Versatile In-Memory Accelerator for Matrix-Vector-Product-Like Operations,"
+*IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP),* Jul. 2019,
+<--!doi: 10.1109/ASAP.2019.000-9.-->
+
+1. R. Ghods, **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan and C. Studer, 
+"BEACHES: Beamspace Channel Estimation for Multi-Antenna mmWave Systems and Beyond," 
+*IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC),* Jul. 2019.
+<--!doi: 10.1109/SPAWC.2019.8815576.-->
+
+1. C. Alessandri, D. Guzman, A. Abusleme, D. Avila, E. Alvarez, H. Campillo, **A. Gallyas-Sanhueza**, C. Oberli, and M. Guarini, 
+"Theoretical framework and simulation results for implementing weighted multiple sampling in scientific CCDs." 
+*Scientific Detectors Workshop,* Oct. 2013.
 
 ## PATENTS
 
-1. C. Studer, R. Ghods, S. H. Mirfarshbafan and **A. Gallyas-Sanhueza**, Cornell University, 2020. Circuit and method for enabling channel denoising in a wireless communication apparatus. U.S. Patent 10,608,686.
+1. C. Studer, R. Ghods, S. H. Mirfarshbafan and **A. Gallyas-Sanhueza**, 
+"Circuit and method for enabling channel denoising in a wireless communication apparatus," 
+U.S. Patent 10,608,686, Mar. 2020.
