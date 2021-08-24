@@ -74,6 +74,13 @@
 	</p>
         {% endif %}
 
+	{% if site.resume %}
+        <p>
+          <a href="{{ site.scholar }}" itemprop="sameAs">
+            <i class="fa fa-memo"></i> Resume
+          </a>
+        </p>
+        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">

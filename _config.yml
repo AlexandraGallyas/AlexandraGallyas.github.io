@@ -8,6 +8,8 @@ logo: https://github.com/AlexandraGallyas/AlexandraGallyas.github.io/blob/master
 
 scholar: https://scholar.google.com/citations?user=qXtU5XwAAAAJ&hl=en
 
+resume: {{ site.url }}/Alexandra_Gallyas_Sanhueza_resume.pdf
+
 # choose markdown version
 markdown: kramdown
 
