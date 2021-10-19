@@ -36,7 +36,7 @@ My advisor is Professor [Christoph Studer](http://vip.ece.cornell.edu), Associat
 
 1. R. Ghods, **A. Gallyas-Sanhueza**, S. H. Mirfarshbafan and C. Studer, 
 "BEACHES: Beamspace Channel Estimation for Multi-Antenna mmWave Systems and Beyond," 
-*IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC),* Jul. 2019.
+*IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC),* Jul. 2019.
 
 1. C. Alessandri, D. Guzman, A. Abusleme, D. Avila, E. Alvarez, H. Campillo, **A. Gallyas-Sanhueza**, C. Oberli, and M. Guarini, 
 "Theoretical framework and simulation results for implementing weighted multiple sampling in scientific CCDs." 
