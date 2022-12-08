@@ -12,7 +12,11 @@ My advisor is Professor [Christoph Studer](http://vip.ece.cornell.edu), Associat
 
 1. **A. Gallyas-Sanhueza** and C. Studer, 
 “Low-complexity blind parameter estimation in wireless systems with noisy sparse signals,” 
-*IEEE Transactions on Wireless Communications*, in preparation.
+*IEEE Transactions on Wireless Communications*, submitted.
+
+1. Y. Dai, M. E. Rasekh, S. H. Mirfarshbafan, H. Liew, **A. Gallyas-Sanhueza**, J. Dunn, U. Madhow, C. Studer, and B. Nikolic, 
+"An adaptable and scalable generator of distributed massive MIMO baseband processing systems,"
+*Springer Journal of Signal Processing Systems,* May 2022.
 
 1. Y. Dai, H. Liew, M. E. Rasekh, S. H. Mirfarshbafan, **A. Gallyas-Sanhueza**, J. Dunn, U. Madhow, C. Studer, and B. Nikolic, 
 "A scalable generator for massive MIMO baseband processing systems with beamspace channel estimation,"
