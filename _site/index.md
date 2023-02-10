@@ -9,8 +9,10 @@ I am a third-year Ph.D. student at Cornell University. I work on baseband algori
 My advisor is Professor [Christoph Studer](http://vip.ece.cornell.edu), Associate Professor at ETH Zurich and Visiting Associate professor at Cornell University.
 
 ## PUBLICATIONS
+
 1. **A. Gallyas-Sanhueza** and C. Studer, 
-"Low-Complexity Blind Parameter Estimation in Wireless Systems with Noisy Sparse Signals,"
+"Low-Complexity Blind Parameter Estimation in Wireless Systems with Noisy Sparse Signals," 
+*IEEE Transactions on Wireless Communications*, accepted for publication.
 submitted.
 
 1. Y. Dai, H. Liew, M. E. Rasekh, S. H. Mirfarshbafan, **A. Gallyas-Sanhueza**, J. Dunn, U. Madhow, C. Studer, and B. Nikolic, 
