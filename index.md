@@ -2,11 +2,25 @@
 
 ### Download  my resume [here]({{ site.url }}/Alexandra_Gallyas_Sanhueza_resume.pdf)
 
-## RESEARCH
 
-I am a Ph.D. candidate at Cornell University, expecting to graduate in December 2023. I work on baseband algorithms for beyond 5G multi-antenna wireless communication systems. More broadly, I am interested in applying statistical signal processing techniques to model signals corrupted by noise and hardware impairments, and exploiting such models in order to design computationally-efficient algorithms that estimate the signals of interest.
+I am a Research Scientist at the [IBM T. J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights).
 
-My advisor is Professor [Christoph Studer](https://iis.ee.ethz.ch/people/person-detail.cstuder.html), Associate Professor at ETH Zurich and Visiting Associate Professor at Cornell University.
+My research interests include signal processing, efficient algorithms, hardware accelerators, machine learning and statistics,
+wireless communication systems, and wireless sensing.
+
+## EDUCATION
+**Doctor of Philosophy (Ph.D.), Electrical and Computer Engineering,** Cornell University, Ithaca, NY.\
+Aug 2018 – Dec 2023\
+*Thesis:* Denoising Sparse Wireless Channels in Multi-Antenna Communication Systems\
+[Abstract](https://ecommons.cornell.edu/items/440506df-a790-48e7-8ab2-03606eced862) | [pdf (2.7MB)](https://ecommons.cornell.edu/bitstreams/d446578b-3f8a-4d63-b920-3c94461dd5ba/download).\
+*Ph.D. Advisor:* [Professor Christoph Studer](https://iis.ee.ethz.ch/people/person-detail.cstuder.html), Full Professor at ETH Zurich.
+
+**Master of Science (M.Sc.), Electrical and Computer Engineering,** Cornell University, Ithaca, NY.\
+Aug 2018 – Dec 2021
+
+**Bachelor of Science (B.S.), Electrical Engineering,** Pontificia Universidad Católica de Chile, Santiago, Chile.\
+Mar 2009 – Apr 2015\
+5.5-year program. Maximum Distinction. GPA: A+. Ranking: top 6.5%.
 
 ## PUBLICATIONS
 
