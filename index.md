@@ -24,6 +24,20 @@ Mar 2009 – Apr 2015\
 
 ## PUBLICATIONS
 
+1. **A. Gallyas-Sanhueza**, S. Garcia Sanchez, A. Paidimarri, A. Tzadok, B. Sadhu and A. Valdes-Garcia, "Angle of Arrival Estimation within One OFDM Symbol Leveraging Agile Beamforming," *IEEE International Symposium on Phased Array Systems and Technology (ARRAY),* Oct. 2024.
+
+1. A. Paidimarri, A. Tzadok, S. Garcia Sanchez, A. Kludze, **A. Gallyas-Sanhueza**, and A. Valdes-Garcia, 
+“Eye-Beam: A mm-wave 5G-compliant platform for integrated communications and sensing enabling AI-based object recognition,” 
+*IEEE Journal on Selected Areas in Communications (JSAC),* Jun. 2024.
+
+1. **A. Gallyas-Sanhueza***, G. Marti*, V. Palhares*, R. Wiesmayr*, and C. Studer*, 
+“LoFi user scheduling for multiuser MIMO wireless systems,” *ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),* 
+Apr. 2024, (* indicates equal contribution).
+
+1. **A. Gallyas-Sanhueza**,
+“Denoising sparse wireless channels in multi-antenna communication systems,” 
+PhD thesis, Cornell University, Dec. 2023.
+
 1. **A. Gallyas-Sanhueza** and C. Studer, 
 “Low-complexity blind parameter estimation in wireless systems with noisy sparse signals,” 
 *IEEE Transactions on Wireless Communications*, Feb. 2023.
