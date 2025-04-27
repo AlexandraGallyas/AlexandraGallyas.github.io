@@ -11,7 +11,7 @@ wireless communication systems, and wireless sensing.
 ## EDUCATION
 **Doctor of Philosophy (Ph.D.), Electrical and Computer Engineering,** Cornell University, Ithaca, NY.\
 Aug 2018 – Dec 2023\
-*Thesis:* Denoising Sparse Wireless Channels in Multi-Antenna Communication Systems [pdf (2.7MB)](https://ecommons.cornell.edu/.bitstreams/d446578b-3f8a-4d63-b920-3c94461dd5ba/download)\
+*Thesis:* Denoising Sparse Wireless Channels in Multi-Antenna Communication Systems.\
 *Ph.D. Advisor:* [Professor Christoph Studer](https://iis.ee.ethz.ch/people/person-detail.cstuder.html).
 
 **Master of Science (M.Sc.), Electrical and Computer Engineering,** Cornell University, Ithaca, NY.\
